@@ -1,6 +1,17 @@
-Work experience
+Teaching Assistant
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+
+2025 - 2026
+---------------
+* Category Theory
+* Type Theory
+
+2024 - 2025
+---------------
+* Advanced Algorithms
+* Functional Programming
+
+2023 - 2024
+---------------
+* Functional Programming
+  
