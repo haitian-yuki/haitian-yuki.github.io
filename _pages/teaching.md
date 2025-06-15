@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Teaching"
+redirect_from: 
+  - /teaching/
+  - /teaching.html
+---
+
+
 Teaching Assistant
 ======
 
