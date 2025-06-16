@@ -15,7 +15,7 @@ Teaching Assistant
 ### 2025 - 2026
 
 * Category Theory (Mastermath)
-* Type Theory (Master of Logic)
+* Type Theory (Master's Logic)
 
 ### 2024 - 2025
 
