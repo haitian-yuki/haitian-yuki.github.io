@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Theoretical Computer Science, ILLC, University of Amsterdam, 2027 (expected)
+* Logic Year, ILLC, University of Amsterdam, 2023
+* MSc in Philosophy of Science, LSE, 2022
+  *  Winner of Popper Prize - Best Performance MSc Philosophy of Science
+* BSc in Philosophy, Politics and Economics, UCL, 2021
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
