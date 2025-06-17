@@ -16,7 +16,7 @@ Papers
 
 Formalizations
 ---------------
-* Haitian Wang: [Dershowitz-Manna Ordering](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Data/Multiset/DershowitzManna.html#Multiset.IsDershowitzMannaLT). Merged into mathlib in January 2025.
+* Haitian Wang: **Dershowitz-Manna Ordering**, Merged into mathlib in January 2025. [Link](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Data/Multiset/DershowitzManna.html#Multiset.IsDershowitzMannaLT). 
 
 
 <!-- Journal Articles
