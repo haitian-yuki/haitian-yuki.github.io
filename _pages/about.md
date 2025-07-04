@@ -17,7 +17,7 @@ Interests
 * Functional Programming
 * Model Checking
 
-News
+News & Olds
 ======
 * 28 July - 8 August, 2025, [ESSLLI](https://2025.esslli.eu/), Ruhr University Bochum, Germany: I will attend the summer school and give a talk on my accepted paper on Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4.
 * 14 - 16 July, 2025, [TARK](https://ccc.cs.uni-duesseldorf.de/tark-2025/), Düsseldorf, Germany: I will present a poster about our accepted paper: Comparing State-Representations for DEL Model Checking. (A joint work with [Gregor Behnke](https://staff.science.uva.nl/g.behnke/), [Malvin Gattinger](https://staff.science.uva.nl/g.behnke/), [Avijeet Ghosh](https://itsmeavi.github.io/).)
