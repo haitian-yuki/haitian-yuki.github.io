@@ -11,7 +11,7 @@ redirect_from:
 
 Conference
 ---------------
-* (Forthcoming) Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4. 29 July, 2025, [ESSLLI](https://2025.esslli.eu/), Bochum.
+* Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4. 29 July, 2025, [ESSLLI](https://2025.esslli.eu/), Bochum.
 * Formalizing Cyclic Tableaux for PDL in Lean. 26 June, 2025, [Dutch Formal Methods Day](https://conf.researchr.org/home/dfdm-2025), Amsterdam. A joint talk with [Malvin Gattinger](https://malv.in/). 
 * The Ongoing Work of Formalizing the Dershowitz-Manna Ordering Theorem in Lean4. 21 June, 2024, [Dutch Logic PhD Day 2024](https://verenigingvoorlogica.nl/en/PhD-Day/), Amsterdam.
 * How to represent a Kripke model? BDDs versus Mental Programs. 14 June, 2024, [SLSS](https://scool24.github.io/SLSS/), Reykjavík.
@@ -20,7 +20,7 @@ Conference
 
 Poster Session
 ---------------
-* (Forthcoming) Comparing State-Representations for DEL Model Checking. 14 - 16 July, 2025, [TARK](https://ccc.cs.uni-duesseldorf.de/tark-2025/), Düsseldorf. 
+* Comparing State-Representations for DEL Model Checking. 14 - 16 July, 2025, [TARK](https://ccc.cs.uni-duesseldorf.de/tark-2025/), Düsseldorf. 
 
 Public Engagement
 ---------------
