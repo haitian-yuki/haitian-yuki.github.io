@@ -11,8 +11,8 @@ redirect_from:
 
 Papers
 ---------------
-* Gregor Behnke, Malvin Gattinger, Avijeet Ghosh, Haitian Wang: **Comparing State-Representations for DEL Model Checking**, In: TARK 2025, To appear.
-* Haitian Wang: **Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4**, In: ESSLLI 2025, To appear. 
+* Gregor Behnke, Malvin Gattinger, Avijeet Ghosh, Haitian Wang: **Comparing State-Representations for DEL Model Checking**, In: TARK 2025. [Link](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?TARK2025:27).
+* Haitian Wang: **Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4**, In: ESSLLI 2025. [Link](https://philpapers.org/rec/GRAPOT-20).
 
 Formalizations
 ---------------
