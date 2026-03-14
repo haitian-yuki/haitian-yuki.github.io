@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Theoretical Computer Science, ILLC, University of Amsterdam, Nov 2027 (expected)
+* PhD in Theoretical Computer Science, ILLC, University of Amsterdam, Nov 2027 (in progress)
 * Logic Year, ILLC, University of Amsterdam, 2023
 * MSc in Philosophy of Science, LSE, 2022
   *  Winner of Popper Prize - Best Performance MSc Philosophy of Science
