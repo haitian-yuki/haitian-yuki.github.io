@@ -24,7 +24,7 @@ Poster Session
 
 Guest Lectures
 ---------------
-* Monads: From Functional Programming to Logic. 2 March, 2026, [Slides](/files/FP_guest_lecture_on_monads.pdf), Amsterdam. 
+* Monads: From Functional Programming to Logic ([Slides](/files/FP_guest_lecture_on_monads.pdf)). 2 March, 2026, Amsterdam. 
   
 Public Engagement
 ---------------
