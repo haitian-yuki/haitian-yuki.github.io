@@ -22,6 +22,10 @@ Poster Session
 ---------------
 * Comparing State-Representations for DEL Model Checking. 14 - 16 July, 2025, [TARK](https://ccc.cs.uni-duesseldorf.de/tark-2025/), Düsseldorf. 
 
+Guest Lectures
+---------------
+* Monads: From Functional Programming to Logic. 2 March, 2026, [Slides](/files/FP_guest_lecture_on_monads.pdf), Amsterdam. 
+  
 Public Engagement
 ---------------
 * Digitize your own mathematics with Lean. 16 April, 2025, [Leve de wiskunde!](https://www.betapartners.nl/leve-de-wiskunde-2025/). Workshop for math teachers and students from grades 5 and 6. Amsterdam.
