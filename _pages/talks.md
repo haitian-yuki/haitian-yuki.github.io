@@ -25,6 +25,7 @@ Poster Session
 Guest Lectures
 ---------------
 * Monads: From Functional Programming to Logic ([Slides](/files/FP_guest_lecture_on_monads.pdf)). 2 March, 2026, Amsterdam. 
+* Polymorphism and System F ([Slides](files/TT_guest_lecture_on_polymorphism.pdf)). 6 May, 2026, Amsterdam. 
   
 Public Engagement
 ---------------
