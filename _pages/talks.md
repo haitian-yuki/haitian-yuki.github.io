@@ -30,7 +30,7 @@ Guest Lectures
 Public Engagement
 ---------------
 * Digitize your own mathematics with Lean. 16 April, 2025, [Leve de wiskunde!](https://www.betapartners.nl/leve-de-wiskunde-2025/). Workshop for math teachers and students from grades 5 and 6. Amsterdam.
-* How can computers aid research in logic? 7 June, 2024, [ILLC Open Day](https://www.illc.uva.nl/Open-days-and-reunions/Open-day-and-reunion-2024/). Talk for colleagues from UvA, CWI, other academic institutions in the Netherlands and professional working in the industry. Amsterdam
+* How can computers aid research in logic? 7 June, 2024, [ILLC Open Day](https://www.illc.uva.nl/Open-days-and-reunions/Open-day-and-reunion-2024/). Talk for colleagues from UvA, CWI, other academic institutions in the Netherlands and professional working in the industry. Amsterdam.
 
 
 <!-- Seminar
