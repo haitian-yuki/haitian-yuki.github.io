@@ -23,6 +23,7 @@ News
 Epistemic Logic.
 * 18 July, 2026, [Structure Meets Power](https://structuremeetspower.github.io/SmP2026/), LiCS 2026 affiliated workshop, Lisbon (online): I will be giving a talk on A Categorical Perspective on Kripke Models and Dynamic
 Epistemic Logic.
+
 <!-- * 28 July - 8 August, 2025, [ESSLLI](https://2025.esslli.eu/), Ruhr University Bochum, Germany: I attended the summer school and gave a talk on my accepted paper on Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4.
 * 14 - 16 July, 2025, [TARK](https://ccc.cs.uni-duesseldorf.de/tark-2025/), Düsseldorf, Germany: I presented a poster about our accepted paper: Comparing State-Representations for DEL Model Checking. (A joint work with [Gregor Behnke](https://staff.science.uva.nl/g.behnke/), [Malvin Gattinger](https://staff.science.uva.nl/g.behnke/), [Avijeet Ghosh](https://itsmeavi.github.io/).)
 * 26 June, 2025, [Dutch Formal Methods Day](https://conf.researchr.org/home/dfdm-2025), Amsterdam, Netherlands: I gave a joint talk together with [Malvin Gattinger](https://malv.in/) on Formalizing Cyclic Tableaux for PDL in Lean. -->
