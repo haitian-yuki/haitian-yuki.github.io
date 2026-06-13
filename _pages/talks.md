@@ -29,8 +29,8 @@ Guest Lectures
 
 Expository Talks
 ---------------
-* Topological Categories. ([Slides](/files/Topological_categories.pdf)). MoL Topology [project](https://msclogic.illc.uva.nl/current-students/courses/previous-projects/project/246/1st-Semester-2025-26-Topology-in-and-via-Logic). January, 2026, Amsterdam. 
-* Paper Discussion: Categories for Dynamic Epistemic Logic. ([Slides (part1)](/files/Ara_talk_part1.pdf), [Slides (part2)](/files/Ara_talk_part2.pdf)). 13 & 27 November, 2025, [Ara](https://events.illc.uva.nl/ARA/posts/talk02/), Amsterdam. 
+* Topological Categories ([Slides](/files/Topological_categories.pdf)). MoL Topology [project](https://msclogic.illc.uva.nl/current-students/courses/previous-projects/project/246/1st-Semester-2025-26-Topology-in-and-via-Logic). January, 2026, Amsterdam. 
+* Paper Discussion: Categories for Dynamic Epistemic Logic ([Slides (part1)](/files/Ara_talk_part1.pdf), [Slides (part2)](/files/Ara_talk_part2.pdf)). 13 & 27 November, 2025, [Ara](https://events.illc.uva.nl/ARA/posts/talk02/), Amsterdam. 
 
 
 Public Engagement
