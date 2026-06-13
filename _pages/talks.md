@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Conference
+Conferences & Workshops
 ---------------
 * Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4. 29 July, 2025, [ESSLLI](https://2025.esslli.eu/), Bochum.
 * Formalizing Cyclic Tableaux for PDL in Lean. 26 June, 2025, [Dutch Formal Methods Day](https://conf.researchr.org/home/dfdm-2025), Amsterdam. A joint talk with [Malvin Gattinger](https://malv.in/). 
@@ -24,8 +24,8 @@ Poster Session
 
 Guest Lectures
 ---------------
-* Monads: From Functional Programming to Logic ([Slides](/files/FP_guest_lecture_on_monads.pdf)). 2 March, 2026, Amsterdam. 
 * Polymorphism and System F ([Slides](/files/TT_guest_lecture_on_polymorphism.pdf)). 6 May, 2026, Amsterdam. 
+* Monads: From Functional Programming to Logic ([Slides](/files/FP_guest_lecture_on_monads.pdf)). 2 March, 2026, Amsterdam. 
 
 Expository Talks
 ---------------
