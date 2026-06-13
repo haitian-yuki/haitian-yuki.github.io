@@ -26,7 +26,13 @@ Guest Lectures
 ---------------
 * Monads: From Functional Programming to Logic ([Slides](/files/FP_guest_lecture_on_monads.pdf)). 2 March, 2026, Amsterdam. 
 * Polymorphism and System F ([Slides](/files/TT_guest_lecture_on_polymorphism.pdf)). 6 May, 2026, Amsterdam. 
-  
+
+Expository Talks
+---------------
+* Paper Discussion: Categories for Dynamic Epistemic Logic. ([Slides_part1](files/Ara_talk_part1.pdf), [Slides_part2](files/Ara_talk_part2.pdf)). 13 & 27 November, 2025, [Ara](https://events.illc.uva.nl/ARA/posts/talk02/), Amsterdam. 
+* Topological Categories. ([Slides](/files/files/Topological_categories.pdf)). MoL Topology [project](https://msclogic.illc.uva.nl/current-students/courses/previous-projects/project/246/1st-Semester-2025-26-Topology-in-and-via-Logic). January, 2026, Amsterdam. 
+
+
 Public Engagement
 ---------------
 * Digitize your own mathematics with Lean. 16 April, 2025, [Leve de wiskunde!](https://www.betapartners.nl/leve-de-wiskunde-2025/). Workshop for math teachers and students from grades 5 and 6. Amsterdam.
