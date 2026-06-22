@@ -29,7 +29,7 @@ Guest Lectures
 
 Expository Talks
 ---------------
-* Categories, Homotopy and O-minimality (Paper Discussion: Model Categories for O-minimal Geometry) ([Slides](/files/Model_Categories_For_O-Minimal_Geometry.pdf)). MoL Topology [project](https://msclogic.illc.uva.nl/current-students/courses/projects/project/256/2nd-Semester-2025-26-O-minimality-and-Tame-Topology). June, 2026, Amsterdam.
+* Categories, Homotopy and O-minimality (Paper Discussion: Model Categories for O-minimal Geometry) ([Slides](/files/Model_Categories_For_O-Minimal_Geometry.pdf)). MoL O-minimality and Tame Topology [project](https://msclogic.illc.uva.nl/current-students/courses/projects/project/256/2nd-Semester-2025-26-O-minimality-and-Tame-Topology). June, 2026, Amsterdam.
 * Topological Categories ([Slides](/files/Topological_categories.pdf)). MoL Topology [project](https://msclogic.illc.uva.nl/current-students/courses/previous-projects/project/246/1st-Semester-2025-26-Topology-in-and-via-Logic). January, 2026, Amsterdam. 
 * Paper Discussion: Categories for Dynamic Epistemic Logic ([Slides (part1)](/files/Ara_talk_part1.pdf), [Slides (part2)](/files/Ara_talk_part2.pdf)). 13 & 27 November, 2025, [Ara](https://events.illc.uva.nl/ARA/posts/talk02/), Amsterdam. 
 
