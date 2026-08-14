@@ -17,11 +17,12 @@ Interests
 * Functional Programming
 * Model Checking
 
-News
+News & Olds
 ======
-* 10 - 14 August, 2026, [Semantics and compositionality for expressiveness and complexity](https://tomas.jakl.one/events/esslli-2026-workshop), ESSLLI 2026 Workshop, Prague: I will be giving a talk on A Categorical Perspective on Kripke Models and Dynamic
+* 16 October - 16 November, 2026, I will be visiting the logic group at Peking University.
+* 10 - 14 August, 2026, [Semantics and compositionality for expressiveness and complexity](https://tomas.jakl.one/events/esslli-2026-workshop), ESSLLI 2026 Workshop, Prague: I gave a talk on A Categorical Perspective on Kripke Models and Dynamic
 Epistemic Logic.
-* 18 July, 2026, [Structure Meets Power](https://structuremeetspower.github.io/SmP2026/), LiCS 2026 affiliated workshop, Lisbon (online): I will be giving a talk on A Categorical Perspective on Kripke Models and Dynamic
+* 18 July, 2026, [Structure Meets Power](https://structuremeetspower.github.io/SmP2026/), LiCS 2026 affiliated workshop, Lisbon (online): I gave a talk on A Categorical Perspective on Kripke Models and Dynamic
 Epistemic Logic.
 
 <!-- * 28 July - 8 August, 2025, [ESSLLI](https://2025.esslli.eu/), Ruhr University Bochum, Germany: I attended the summer school and gave a talk on my accepted paper on Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4.

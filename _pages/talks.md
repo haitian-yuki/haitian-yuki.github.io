@@ -8,9 +8,12 @@ redirect_from:
 #   - /talks.html
 ---
 
-
 Conferences & Workshops
 ---------------
+* A Categorical Perspective on Kripke Models and Dynamic
+Epistemic Logic ([Slides](/files/A_Categorical_Perspective_on_Kripke_Models_and_Dynamic_Epistemic_Logic__ESSLLI2026_workshop.pdf)). 10 - 14 August, 2026, [Semantics and compositionality for expressiveness and complexity](https://tomas.jakl.one/events/esslli-2026-workshop), ESSLLI 2026 Workshop, Prague.
+* A Categorical Perspective on Kripke Models and Dynamic
+Epistemic Logic. 18 July, 2026, [Structure Meets Power](https://structuremeetspower.github.io/SmP2026/), LiCS 2026 affiliated workshop, Lisbon (online).
 * Formalizing the Dershowitz-Manna Ordering Theorem in Lean 4. 29 July, 2025, [ESSLLI](https://2025.esslli.eu/), Bochum.
 * Formalizing Cyclic Tableaux for PDL in Lean. 26 June, 2025, [Dutch Formal Methods Day](https://conf.researchr.org/home/dfdm-2025), Amsterdam. A joint talk with [Malvin Gattinger](https://malv.in/). 
 * The Ongoing Work of Formalizing the Dershowitz-Manna Ordering Theorem in Lean4. 21 June, 2024, [Dutch Logic PhD Day 2024](https://verenigingvoorlogica.nl/en/PhD-Day/), Amsterdam.
